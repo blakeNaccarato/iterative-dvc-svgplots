@@ -3,10 +3,10 @@ stages:
   test:
     cmd: python test.py
     deps:
-    - path: dep.svg
+    - path: dep.png
       md5: a157ce4260c867ddea310ca1d00d8c22
       size: 4210
     outs:
-    - path: plot.svg
+    - path: plot.png
       md5: a157ce4260c867ddea310ca1d00d8c22
       size: 4210

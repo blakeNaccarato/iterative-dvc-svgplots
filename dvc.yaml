@@ -1,5 +1,5 @@
 stages:
   test:
     cmd: python test.py
-    deps: [dep.svg]
-    plots: [plot.svg]
+    deps: [dep.png]
+    plots: [plot.png]
