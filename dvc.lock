@@ -4,9 +4,9 @@ stages:
     cmd: python test.py
     deps:
     - path: dep.png
-      md5: a157ce4260c867ddea310ca1d00d8c22
-      size: 4210
+      md5: 83eb262ea41e7158817d6f87b7cd3764
+      size: 226933
     outs:
     - path: plot.png
-      md5: a157ce4260c867ddea310ca1d00d8c22
-      size: 4210
+      md5: 83eb262ea41e7158817d6f87b7cd3764
+      size: 226933
