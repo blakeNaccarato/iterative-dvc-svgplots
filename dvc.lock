@@ -5,8 +5,8 @@ stages:
     deps:
     - path: dep.svg
       md5: a157ce4260c867ddea310ca1d00d8c22
-      size: 4210
+      size: 4265
     outs:
     - path: plot.svg
       md5: a157ce4260c867ddea310ca1d00d8c22
-      size: 4210
+      size: 4265
